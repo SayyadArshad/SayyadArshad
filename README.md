@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayyad Arshad</h1>
-<h3 align="center">An enthusiastic SDET from India, dedicated to ensuring software quality through automation.</h3>
+<h3 align="center">An enthusiastic SDET, dedicated to ensuring software quality through automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyadarshad&label=Profile%20views&color=0e75b6&style=flat" alt="sayyadarshad" /> </p>
 
